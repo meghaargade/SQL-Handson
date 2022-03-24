@@ -51,6 +51,8 @@ create table Orders
 
 select * from Orders
 
+//SQL Queries For Handson2
+
 --(1)
 select ord_date,salesman_id,ord_no,purch_amt from Orders
 
